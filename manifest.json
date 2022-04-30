@@ -1,6 +1,15 @@
 {
     "name": "Affirmations",
     "description": "Request affirmations when you need them.",
-    "version": "0.1",
-    "manifest_version": 3
+    "version": "0.2",
+    "manifest_version": 3,
+    "action": {
+        "default_popup": "views/affirmation.html",
+        "default_icon": {
+            "16": "images/heart-outline-16.png",
+            "32": "images/heart-outline-32.png",
+            "48": "images/heart-outline-48.png",
+            "128": "images/heart-outline-128.png"
+        }
+    }
 }
