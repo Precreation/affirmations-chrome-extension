@@ -1,4 +1,16 @@
+.affirmation-image
+{
+    height: 50px;
+    width: 50px;
+}
+
+.affirmation-popup
+{
+    display: flex;
+}
+
 .affirmation-text
 {
     min-width: 250px;
+    margin: 5px;
 }
