@@ -1,6 +1,6 @@
 {
     "name": "Affirmations",
-    "description": "Affirmations when you need them.",
+    "description": "Request affirmations when you need them.",
     "version": "0.1",
-    "manifest-version": 3
+    "manifest_version": 3
 }
