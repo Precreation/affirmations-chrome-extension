@@ -1,8 +1,11 @@
 {
+    "manifest_version": 3,
     "name": "Affirmations",
     "description": "Request affirmations when you need them.",
     "version": "0.2",
-    "manifest_version": 3,
+    "host_permissions": [
+        "https://www.affirmations.dev/*"
+    ],
     "action": {
         "default_popup": "views/affirmation.html",
         "default_icon": {
